@@ -3,7 +3,10 @@
 This is Front-end web application. The application is designed to use as Music player system for web based clients.
 No third party libraries are used. Code is purely based on **HTML, CSS and Vanila Javascript**.
 
-The Hosted link for application is as below:
+I have not hosted this application yet because there can be chances of Copy-right issues due to the upload of MP3 files.
+Hence, I have added the screenshot of site below.
+
+For any query you can add it in issues or contact me directly.
 
 
 ## Features
