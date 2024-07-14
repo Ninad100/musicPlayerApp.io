@@ -1,7 +1,7 @@
 # Music Player Application
 
 This is Front-end web application. The application is designed to use as Music player system for web based clients.
-No third party libraries are used. Code is purely based on HTML, CSS and Vanila Javascript.
+No third party libraries are used. Code is purely based on **HTML, CSS and Vanila Javascript**.
 
 The Hosted link for application is as below:
 
@@ -39,16 +39,13 @@ The Hosted link for application is as below:
 ![image](https://github.com/user-attachments/assets/0d03d2be-fb6d-437e-957e-024df0897a66)
 
 **Searching Song**
-Aigiri Nandini song was searched and its showing in middle section
-![image](https://github.com/user-attachments/assets/1e8d143c-a82e-4307-82e0-9e014bc966b9)
 
+![image](https://github.com/user-attachments/assets/1e8d143c-a82e-4307-82e0-9e014bc966b9)
+Aigiri Nandini song was searched and its showing in middle section
 
 **Searching Playlist**
-Check in Playlist section. In searched playlist its showing desired output.
 ![image](https://github.com/user-attachments/assets/89e83b70-3de8-4d10-8137-2b893c53da97)
-
-
-
+Check in Playlist section. In searched playlist its showing desired output.
 ## Setup
 
 - Clone this repository into your system/server
